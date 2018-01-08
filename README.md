@@ -1,3 +1,3 @@
 # worldai
 
-the Shell was not made by me
+the shell was not made by me
